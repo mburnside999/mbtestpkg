@@ -17,7 +17,8 @@
   ],
   "env": {
     "SFDX_DEV_HUB_AUTH_URL": {
-      "required": true
+      "required": true,
+      "value":"force://PlatformCLI::5Aep861hJJeETRTRP8vNlgL5sGEEzS73HnbEQ9nF.VJy.z8RRl.B.3ViX59411Gw66lJ9Ucri548L3y2ocBtLJi@ctademo5.my.salesforce.com"
     },
     "SFDX_BUILDPACK_DEBUG": {
       "required": true
